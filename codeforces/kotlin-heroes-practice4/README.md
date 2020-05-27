@@ -1,28 +1,9 @@
-private fun readLn() = readLine()!!
-private fun readInt() = readLn().toInt()
-private fun readStrings() = readLn().split(" ")
-private fun readInts() = readStrings().map { it.toInt() }
+**Solution to Kotlin Heroes Practice 4**
 
-fun main() {
-    val t = readInt()
-    (1..t).forEach { _ ->
-        val n = readInt()
+Here are my solution to Kotlin Heroes Practices.
 
-        if (n < 4) println("-1")
-        else {
-            var odd = if (n and 1 == 1) n else n - 1
-            while (odd >= 1) {
-                print("$odd ")
-                odd -= 2
-            }
-            print("4 2")
-            odd = 6
-            while (odd <= n) {
-                print(" $odd")
-                odd+=2
-            }
-            println()
-        }
+(Link to the problems on Codeforces): (https://codeforces.com/contest/1347)
 
-    }
-}
+**Documentation**
+
+[Competitive Programing in Kotlin](https://kotlinlang.org/docs/tutorials/competitive-programming.html)
