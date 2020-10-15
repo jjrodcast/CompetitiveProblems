@@ -25,9 +25,9 @@ In the case of Leetcode on each problem you will find the link to the problem.
 * _[LeetCode](https://github.com/jjrodcast/CompetitiveProblems/tree/master/leetcode)_
 
 
-## Future problems 🤔
+## Future solutions 🤔
 
-If you have an specific problem or you want an advice to solve a problem or how to begin with Competitive Programming you can create an issue with the description of the problem.
+If you have a specific problem or you want an advice to solve a problem or how to begin with Competitive Programming you can create an issue with the description of the problem.
 
 ## Contact 📋
 
