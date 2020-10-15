@@ -33,6 +33,8 @@ If you have a specific problem or you want an advice to solve a problem or how t
 
 If you want some training or you want a mock interview you can contact me: 
 
-✉️ jjorge.rc93@gmail.com
-🐦 https://twitter.com/jjrodcast
-😀 https://www.linkedin.com/in/jorge-rodr%C3%ADguez-castillo/
+✉️ [Gmail](jjorge.rc93@gmail.com)
+
+🐦 [Twitter](https://twitter.com/jjrodcast)
+
+😀 [LinkedIn](https://www.linkedin.com/in/jorge-rodr%C3%ADguez-castillo/)
