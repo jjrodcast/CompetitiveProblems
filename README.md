@@ -4,6 +4,10 @@ This repository contains solutions for Competitive Programming problems. Many in
 In the case of Kotlin Heroes go to this page: [Kotlin Heroes 4 - Practice Session](https://codeforces.com/contest/1347)
 In the case of Leetcode on each problem you will find the link to the problem.
 
+# Updates
+This repository contains Kotlin Heroes 5 (practice session) solutions, page: [Kotlin Heroes 5 - Practice Session](https://codeforces.com/contest/1432)
+To see the solutions click here: [Solutions](https://github.com/jjrodcast/CompetitiveProblems/tree/master/codeforces/kotlin-heroes-practice5) (Problem F is not available)
+
 ## Programming Languages 🤠
 * Kotlin
 * Python
